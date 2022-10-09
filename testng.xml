@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="scrpts.testcase4"/>
       <class name="scrpts.testcase3"/>
       <class name="scrpts.testcase2"/>
       <class name="scrpts.testcase1"/>
